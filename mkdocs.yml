@@ -1,0 +1,8 @@
+site_name: Solar Physics Capstone Project
+
+theme:
+  name: simple-blog
+
+nav:
+  - Home: index.md
+  - Week 1: week01.md

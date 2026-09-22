@@ -1,4 +1,3 @@
-# Week 1
 
 ## What I did
 
@@ -15,13 +14,13 @@
 
 - Used GOES data to make an X-ray plot of the flare, as well as leaning about the GOES channels and flare classes. 
 
-![GOES X-ray plot](../figures/goes_aug20.png)
+![GOES X-ray plot](figures/goes_aug20.png)
 
 - Installed Stixpy and read about what STIX is, what it measures, its energy channels and how its different from GOES x-ray measurements. Made three plots: 1. the main impulse peaks, 2. lower-energy vs. higher-energy channels, and 3. compare STIX vs. GOES emission plots.
 
-![Main impulsive peaks](../figures/week01_stix_impulsive_peak.png)
-![Lowest vs. highest energy channels](../figures/week01_stix_low_vs_high.png)
-![STIX and GOES emission plots](../figures/week01_stix_vs_goes_normalized.png)
+![Main impulsive peaks](figures/week01_stix_impulsive_peak.png)
+![Lowest vs. highest energy channels](figures/week01_stix_low_vs_high.png)
+![STIX and GOES emission plots](figures/week01_stix_vs_goes_normalized.png)
 
 
 ## Things that worked

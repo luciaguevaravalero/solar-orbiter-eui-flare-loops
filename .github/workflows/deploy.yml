@@ -23,8 +23,8 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install MkDocs
-        run: pip install mkdocs
+      - name: Install MkDocs and theme
+        run: pip install mkdocs mkdocs-simple-blog
 
       - name: Build site
         run: mkdocs build

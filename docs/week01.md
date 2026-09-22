@@ -12,9 +12,16 @@
 
 - Completed the first SunPy exercises. Loaded the EUI fits file and extracted useful metadata as well as plotted the image of the solar loop I will be looking at in the project. I included my observations in a markdown cell in 'sunpy_basics.ipynp' as well as the image.
 
+
 - Used GOES data to make an X-ray plot of the flare, as well as leaning about the GOES channels and flare classes. 
 
+![GOES X-ray plot](../figures/goes_aug20.png)
+
 - Installed Stixpy and read about what STIX is, what it measures, its energy channels and how its different from GOES x-ray measurements. Made three plots: 1. the main impulse peaks, 2. lower-energy vs. higher-energy channels, and 3. compare STIX vs. GOES emission plots.
+
+![Main impulsive peaks](../figures/week01_stix_impulsive_peak.png)
+![Lowest vs. highest energy channels](../figures/week01_stix_low_vs_high.png)
+![STIX and GOES emission plots](../figures/week01_stix_vs_goes_normalized.png)
 
 
 ## Things that worked

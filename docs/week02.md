@@ -32,7 +32,7 @@ I obtained the intensity profile for a regular exposure and short exposure image
 
 I also summed the pixel values from 15:45 to 16:30 and plotted the sum against time to see the profile.
 
-![Time profile]("../figures/eui_lightcurve_short.png")
+![Time profile](../figures/eui_lightcurve_short.png)
 
 The plot clearly shows the impulsive and gradual phases in agreement with the STIX vs. GOES plot.
 

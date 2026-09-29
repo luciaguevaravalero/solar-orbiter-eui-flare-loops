@@ -1,4 +1,4 @@
-# Week 2
+
 
 I started the week off by installing Stixpy and understanding STIX. STIX is another instrument on Solar Orbiter, alongside EUI. While EUI takes images of the Sun in extreme UV light, STIX specifically detects X-rays coming from flares. These are produced by very high-energy electrons that get accelerated during the flare and slam into the denser lower solar atmosphere, emitting X-rays as they decelerate. So while GOES also measures X-rays, STIX does it from the Solar Orbiter’s vantage point, closer to the Sun and at a different viewing angle than Earth. 
 

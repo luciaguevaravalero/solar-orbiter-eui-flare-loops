@@ -5,3 +5,5 @@ This website documents my progress throughout my capstone project, including my 
 ## Weekly Updates
 
 - [Week 1](week01.md)
+- [Week 2](week02.md)
+

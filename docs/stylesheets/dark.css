@@ -1,0 +1,19 @@
+:root { color-scheme: dark; }
+
+html, body {
+  background-color: #0d0d0d !important;
+  color: #eaeaea !important;
+}
+
+h1, h2, h3, h4, h5, h6 { color: #ffffff !important; }
+
+a { color: #6cb6ff !important; }
+a:visited { color: #b69cff !important; }
+
+table, th, td { border-color: #444 !important; }
+th { background-color: #1a1a1a !important; }
+
+code, pre {
+  background-color: #1a1a1a !important;
+  color: #eeeeee !important;
+}
